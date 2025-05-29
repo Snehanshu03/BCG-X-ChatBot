@@ -1,0 +1,8 @@
+User: What is the total revenue of Microsoft in 2023?
+Bot: Microsoft's total revenue in 2023 was $232 billion.
+
+User: How has Apple’s net income changed from 2022 to 2023?
+Bot: Apple’s net income decreased by 3% from 2022 to 2023.
+
+User: Tell me something else.
+Bot: Sorry, I can only respond to specific queries like total revenue or net income changes.
